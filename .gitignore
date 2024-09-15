@@ -1,0 +1,11 @@
+.bin
+.exe
+main
+/bin
+.fql
+.feather
+.config
+feather.config
+fql.config
+.vsode
+target/
